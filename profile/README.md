@@ -2,7 +2,7 @@
 
 **Code coverage for native C and C++ on Windows. No recompilation.**
 
-covdbg measures the coverage of your existing debug builds with dynamic binary instrumentation. Point it at your test executable and run it. It works with MSVC and clang-cl builds, reports line coverage, and exports LCOV, GCOV and HTML reports. Public repositories are free.
+covdbg measures the coverage of your existing debug builds, anything with PDB symbols, using dynamic binary instrumentation. Point it at your test executable and run it. It reports line coverage and exports LCOV, GCOV and HTML reports. Free for public repositories.
 
 ## Get started
 
